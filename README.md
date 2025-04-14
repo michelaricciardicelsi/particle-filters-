@@ -49,6 +49,9 @@ Developed as part of the *System Identification* course under Prof. Battilotti, 
 - **Results:**  
   The particle filter successfully tracks the robot's path using simulated noisy sensor data, showcasing the effectiveness of nonparametric Bayesian filtering in robotics.
 
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/cf9f5b6b-12ae-4740-aa57-b926c5741af2" />
+
+
 ---
 
 ## 📂 Project Structure
