@@ -53,6 +53,20 @@ Developed as part of the *System Identification* course under Prof. Battilotti, 
 
 
 ---
+## References 
+1. Particle Filters. Pieter Abbeel, UC Berkley EECS.
+2. Probabilistic Robotics. Thrun S., Burgard W., Fox D. 1999-2000.
+3. Short Introduction to Particle Filters and Monte Carlo Localization. Cryill Stachniss.
+4. Real-time Particle Filters. Kwok C., Fox D., Meila M. University of Washington. 2004.
+5. Importance Sampling and Particle Filters. Bagnell D., Bartels J.
+6. Bayesian Approached to Localization, Mapping and SLAM. Choset H.
+7. Particle Filtering. Sarkka S. 2012.
+8. Particle Filters and Their Applications. Hsiao K., De Plinval-Salgues H., Miller J. 2005.
+9. KLD-Sampling: Adaptive Particle Filters. Fox D. University of Washington.2002
+10. Adapting the Sample Size in Particle Filters Through KLD-Sampling. Fox D. University of
+Washington. 2003
+
+---
 
 ## 📂 Project Structure
 
